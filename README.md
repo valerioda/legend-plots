@@ -2,7 +2,7 @@
 
 Repo with all official plots ...
 
-In parallel to uploading the plot here, please also prepare a description of the plot on the dedicated Confluence page ...
+In parallel to uploading the plot here, plot description has to be added on Confluence ...
 
 
 ## LEGEND plot style:
@@ -16,7 +16,7 @@ git clone git@github.com:valerioda/legendPlots.git
 
 2. Install the package via:
 ```
-pip install -e legendPlots/
+pip install -e legend-plots
 ```
 
 3. Import the LEGEND plotting style via: 

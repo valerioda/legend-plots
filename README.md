@@ -11,12 +11,12 @@ This repository also provides a small extension to the matplotlib library in ord
 
 1. Download the githup repository using:
 ```
-git clone .....
+git clone git@github.com:valerioda/legendPlots.git
 ```
 
 2. Install the package via:
 ```
-pip install -e legend_plot_style/
+pip install -e legendPlots/
 ```
 
 3. Import the LEGEND plotting style via: 

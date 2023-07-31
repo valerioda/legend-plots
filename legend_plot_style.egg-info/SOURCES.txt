@@ -1,0 +1,10 @@
+README.md
+setup.py
+legend_plot_style/LEGENDPlotStyle.py
+legend_plot_style/__init__.py
+legend_plot_style.egg-info/PKG-INFO
+legend_plot_style.egg-info/SOURCES.txt
+legend_plot_style.egg-info/dependency_links.txt
+legend_plot_style.egg-info/not-zip-safe
+legend_plot_style.egg-info/requires.txt
+legend_plot_style.egg-info/top_level.txt
